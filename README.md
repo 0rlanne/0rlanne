@@ -1,32 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Nekusso porte folio</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="style\style.css">
-</head>
-<body>
-    <center><div id = "lot" style=" margin: auto; padding: 0px;">
-        
-        <center><p class="simple">Nekusso</p></center>
-        
-        
-        <div id = "liens" class = "link">
-            <a style="text-decoration:none" href="https://discord.gg/pNQeFdM9WY"><img src="img/discord.png" style = "width: 50px; height: 50px;"></a>
-            <a style="text-decoration:none" href = "https://github.com/Nekusso"><img src="img/GitHub.png" style = "width: 50px; height: 50px;"></a>
-            <a style="text-decoration:none" href = "https://www.youtube.com/channel/UC2xLTpI_tZyx7YP8nUc8IpQ"><img src="img/youtube.png" style = "width: 50px; height: 50px;"></a>
-            <a style="text-decoration:none" href = "mailto:fanch.garny@icloud.com"><img src="img/mail.png" style = "width: 50px; height: 50px;"></a>
-            
-        </div>
+<center> /$$   /$$  /$$$$$$              /$$                        
+| $$  | $$ /$$__  $$            | $$                        
+| $$  | $$| $$  \ $$ /$$   /$$ /$$$$$$    /$$$$$$  /$$   /$$
+| $$$$$$$$| $$  | $$|  $$ /$$/|_  $$_/   /$$__  $$| $$  | $$
+| $$__  $$| $$  | $$ \  $$$$/   | $$    | $$  \__/| $$  | $$
+| $$  | $$| $$  | $$  >$$  $$   | $$ /$$| $$      | $$  | $$
+| $$  | $$|  $$$$$$/ /$$/\  $$  |  $$$$/| $$      |  $$$$$$$
+|__/  |__/ \______/ |__/  \__/   \___/  |__/       \____  $$
+                                                   /$$  | $$
+                                                  |  $$$$$$/
+                                                   \______/ 
 
-        <div class="nav">
-            <a href>ABOUT</a>
-            <a href>PROJECTS</a>
-            <a href>BLOG</a>
-        </div> 
-    </div></center>
-    
-    
-</body>
+   𝙱𝚘𝚗𝚓𝚘𝚞𝚛 𝚖𝚘𝚒 𝚌'𝚎𝚜𝚝 𝚏𝚊𝚗𝚌𝚑 / 𝙷𝚘𝚡𝚝𝚛𝚢
 
-</html>
+   𝙹'𝚊𝚒 𝟷𝟿 𝚊𝚗𝚜 𝚎𝚝 𝚓'𝚊𝚒𝚖𝚎 𝚋𝚎𝚊𝚞𝚌𝚘𝚞𝚙 𝚕𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚝𝚒𝚘𝚗 𝚎𝚝 𝚕𝚎 𝚌𝚛𝚢𝚙𝚝𝚊𝚐𝚎
+
+   𝚅𝚘𝚞𝚜 𝚙𝚘𝚞𝚛𝚛𝚎𝚣 𝚛𝚎𝚝𝚛𝚘𝚞𝚟𝚎𝚛 𝚒𝚌𝚒 𝚌𝚎𝚛𝚝𝚊𝚒𝚗 𝚍𝚎 𝚖𝚎𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚜 𝚎𝚝 𝚚𝚞𝚎𝚕𝚚𝚞𝚎𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚜 
+
+   𝙹𝚎 𝚌𝚘𝚍𝚎 𝚎𝚗 : Python / Html / Css
+
+   𝙹'𝙰𝚙𝚙𝚛𝚎𝚗𝚍𝚜 𝚕𝚎 : Swift / Java
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★</center>
+
+
+                                                 
